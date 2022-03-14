@@ -1,21 +1,29 @@
 #include <stdio.h>
 
 /**
- * main - prints the numbers from 00 to 99
- * Return: Always 0 (success)
+ * main - Prints numbers between 00 to 89.
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	int n, m;
+	int i, e;
 
-	for (n = 48; n <= 57; n++)
+	i = 48;
+	e = 48;
+
+	for (i = 48; i < 58; i++)
 	{
-		for (m = 48; m <= 57; m++)
+		for (e = 48; e < 58; e++)
 		{
-			putchar(n);
-			putchar(m);
-			if (n != 57 || m != 57)
+			if (i != e && i < e)
 			{
+				putchar(i);
+				putchar(e);
+				if (i == 56 && e == 57)
+				{
+					break;
+				}
 				putchar(',');
 				putchar(' ');
 			}
