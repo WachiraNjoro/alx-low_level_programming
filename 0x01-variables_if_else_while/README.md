@@ -7,4 +7,8 @@ File 5-print_numbers.c prints all single digit of base 10 starting from 0, follo
 File 6-print_numberz.c  prints all single digit of base 10 starting from 0, followed by a new line using putchar and ASCII text
 File 7-print_tebahpla.c prints the lowercase alphabet in reverse followed by a new line
 File 8-print_base16.c prints all the numbers of base 16 in lowercase followed by a newline
-file 9-print_comb.c prints combination of numbers
+File 9-print_comb.c prints combination of single digits
+File 100-print_comb3.c prints only the smallest combination of two digits
+File 101-print_comb4.c prints only the smallest combination of three digits
+File 102-print_comb5.c prints all possible combinations of two two-digit numbers
+
