@@ -1,2 +1,12 @@
 0x0A-argc_argv
 File 0-whatsmyname.c prints the name of a program, followed by a new line
+
+File 1-args.c is a program that prints the number of arguments passed into it.
+
+File 2-args.c is a program that prints all arguments it receives.
+
+File 3-mul.c is a program that multiplies two numbers.
+
+File 4-add.c is a program that adds positive numbers.
+
+File 100-change.c is a program that prints the minimum number of coins to make change for an amount of money.
