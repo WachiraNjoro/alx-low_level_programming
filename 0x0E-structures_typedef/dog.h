@@ -17,4 +17,4 @@ struct dog
 	char *owner;
 };
 
-endif //DOG_H
+#endif /*DOG_H*/
